@@ -1,0 +1,141 @@
+body{
+  margin: 0px;
+  text-align: center;
+}
+
+#top-bar{
+	background-color: #e0ebe8;
+	width: 100%;
+	height: 90px;
+}
+.items{
+	
+
+}
+.top-bar-pic{
+	height: 75px;
+	width: 75px;
+	border-radius: 50px;
+	position: relative;
+	margin-right: 650px;
+	margin-left: 0px;
+	margin-top: 8px
+}
+.items-link{
+	color: #42e6a4;
+	position: relative;
+	bottom: 52px;
+	left: 286px;
+	word-spacing: 7px;
+	font-size: 20px;
+	text-decoration: none;
+	text-decoration-style: none;
+
+}
+
+.name{
+	color: #42e6a4;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    line-height:51px;
+    vertical-align:middle;
+	margin-bottom: -114px;
+	margin-left: 164px;
+	height: 92px;
+	width: 489px;
+	margin-bottom: -20px;
+	margin-top: 14px;
+
+}
+.tag{
+	color: #42e6a4;
+	width: 350px;
+	margin: auto;
+}
+
+.title{
+	color: #42e6a4;
+	text-decoration: underline;
+	text-decoration: bold;
+}
+h4{
+	font-family: 'Merriweather', serif;
+}
+
+.top-container{
+	width: 100%;
+	height: 472px;
+	background-color: #e0ebe8;
+	margin-top: 0px;
+
+}
+
+.header{
+	height: 300px;
+	width: 800px;
+	margin: auto;
+	padding-top: 76px;
+
+}
+
+.skull{
+  height: 130px;
+  width: 150px;
+  position: relative;
+}
+#c1 {
+	margin-left: 2px;
+	margin-left: 531px;
+	margin-bottom: 23px;
+	margin-top: -18px;
+}
+
+#c2 {
+	margin-bottom: 42px;
+	margin-top: -154px;
+	margin-left: 18px;
+	margin-right: 550px;
+}
+
+.joker {
+  width: 250px;
+  height: 200px;
+  margin-bottom: 0px;
+  margin-top: -105px;
+}
+.w-hi{
+
+}
+.explain{
+	width: 450px;
+	margin: auto;
+}
+
+.boy-pic > img:nth-child(1) {
+  width: 150px;
+}
+
+.mid-items {
+	margin: auto;
+  width: 550px;
+  margin-top: 0px;
+  padding-top: 41px;
+}
+
+.logo{
+	word-spacing: 10px;
+}
+
+.footer{
+	height: 50px;
+	width: auto;
+	background-color: grey;
+}
+
+.footer-rights > p:nth-child(1) {
+  margin-bottom: 0px;
+  padding-top: 3px;
+  padding-bottom: 0px;
+  margin-top: 10px;
+  height: 25px;
+}
